@@ -1,0 +1,48 @@
+
+body {
+    margin: 0;
+}
+
+div {
+    box-sizing: border-box;
+}
+
+p {
+    font-size: 13px;
+}
+
+/* main */
+
+.main-btn {
+    background: #6fbaf8;
+    border: none;
+    border-radius: 3px;
+    padding: 5px 20px;
+    color: white;
+}
+
+.white-box {
+    background: white;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0.5px 0.5px 2px 1px #eee;
+}
+
+.blue-colour {
+    color: #6fbaf8;
+}
+
+.pill {
+    display: inline-block;
+    border: 1px solid lightgray;
+    border-radius: 100px;
+    padding: 3px 12px 5px 12px;
+    margin-right: 2px;
+    margin-bottom: 5px;
+    font-size: 13px;
+}
+
+.people-size img{
+    width: 50px;
+    height: 50px;
+}
